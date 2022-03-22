@@ -1279,6 +1279,11 @@
     "lodash.pick" "^4.4.0"
     "lodash.template" "^4.5.0"
 
+"@faker-js/faker@^6.0.0":
+  "integrity" "sha512-10zLCKhp3YEmBuko71ivcMoIZcCLXgQVck6aNswX+AWwaek/L8S3yz9i8m3tHigRkcF6F2vI+qtdtyySHK+bGA=="
+  "resolved" "https://registry.npmjs.org/@faker-js/faker/-/faker-6.0.0.tgz"
+  "version" "6.0.0"
+
 "@hapi/hoek@^9.0.0":
   "integrity" "sha512-gfta+H8aziZsm8pZa0vj04KO6biEiisppNgA1kbJvFrrWu9Vm7eaUEy76DIxsuTaWvti5fkJVhllWc6ZTE+Mdw=="
   "resolved" "https://registry.npmjs.org/@hapi/hoek/-/hoek-9.2.1.tgz"
